@@ -13,5 +13,4 @@ const Comment = (props) => {
         </Grid>
     );
 };
-
 export default Comment;
