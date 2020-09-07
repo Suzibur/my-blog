@@ -1,0 +1,9 @@
+.post-box{
+    height: 200px;
+    padding: 10px;
+    background: gray;
+}
+.title{
+    color:white;
+    text-align: justify;
+}
